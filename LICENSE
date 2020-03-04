@@ -1,4 +1,4 @@
-MIT License
+MIT License (with some NOTES)
 
 Copyright (c) 2020 範疏葉
 
@@ -19,3 +19,25 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+-----------------------------------------------------------------------------
+NOTES
+
+THIS IS MY HOMEWORK DOING, PLEASE CONSULT THE SUB-FOLDER "LICENSE" FILE FOR
+DETAILS LICENSE. THERE ARE SOME NOTES:
+
+1. I did my homework by a tutorial of another author (via github, youtube...)
+so the owner of my homework doing is not only me but the author also for 
+each sub-folder.
+
+2. Please go to the tutorial websites for instructions. You also could subscribe
+or click a like for author if you love the tutorial. There is no instructions
+cloned or copied in this repository.
+
+3. If you use this repository for learning purpose only, it is ok for you do not
+care the license because the tutorial is designed for that purpose, otherwise,
+please consult the sub-folder license file for link to author tutorial.
+
+4. Feel free to use my outcome with MIT License if you get a license from the
+author of the tutorial.
